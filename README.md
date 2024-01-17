@@ -15,10 +15,11 @@ Flow has the following active working groups:
 5. [User Experience Working Group](./user_experience_working_group)
 6. [Wallet Working Group](./wallet_working_group)
 
-These six groups all the major streams of work and a group can have sub-committees within it to focus on specific topics.
-The working groupr aim at driving their respective topics where members contribute towards ideation, research, designs and implementation of several initiatives under that topic.
+These six groups cover all the major streams of work and a group can have sub-committees within it to focus on specific topics.
+
+The working group goal is to drive their respective topic where members contribute towards ideation, research, designs and implementation of several initiatives under that topic.
+
 Everyone is invited to join these working groups as per their areas of interest.
+
 Meeting cadence and agendas can be found in each of the respective sub-folders.
-
-
 
