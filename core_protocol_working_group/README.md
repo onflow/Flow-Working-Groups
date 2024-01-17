@@ -21,6 +21,6 @@ Evolution of Flow to the mature protocol. This includes:
 
 ### Details
 
-We use the [meetings](./agendas) folder,
+We use the [meetings](./meetings) folder,
 to record our ongoing meetings. For each meeting, there is 
 one markdown file in the format `<yyyy-mm-dd>_cp-wp_meeting<optional_details>.md`.
