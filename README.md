@@ -19,7 +19,7 @@ These six groups cover all the major streams of work and a group can have sub-co
 
 The working group goal is to drive their respective topic where members contribute towards ideation, research, designs and implementation of several initiatives under that topic.
 
-Everyone is invited to join these working groups as per their areas of interest.
+> **Everyone** is invited to join these working groups as per their areas of interest.
 
 Meeting cadence and agendas can be found in each of the respective sub-folders.
 
