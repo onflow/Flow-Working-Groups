@@ -32,7 +32,7 @@ The working group goal is to drive their respective topic where members contribu
 ## How to join a working group?
 
 Each working group meets at a regular cadence. The meetings are public and **anyone** can join.
-Meeting invites are published on the groups forum topic summarized below. Please subscribe to the forum topics to receive a notification of the next meeting. 
+Meeting invites are published on the groups forum topic summarized below. Please subscribe to the forum topics to receive a notification for the next meeting. 
 Meeting cadence and agendas can be found in each of the respective sub-folders.
 
 Additionally, groups also have a dedicated Discord channel for async discussions.
