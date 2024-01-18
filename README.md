@@ -44,7 +44,7 @@ Additionally, groups also have a dedicated Discord channel for async discussions
 | Defi                    |                                                                                              |                                                                                                  |
 | Governance              | [Governance Forum topic](https://forum.flow.com/t/governance-working-group-gwg/5403)         | [#governance-working-group](https://discord.com/channels/613813861610684416/1179919909648601118) |
 | User Experience         |                                                                                              |                                                                                                  |
-| Wallet                  | [Wallet Forum topic](https://forum.flow.com/t/flow-wallet-working-group/5577)                |                                                                                                  |
+| Wallet                  | [Wallet Forum topic](https://forum.flow.com/t/flow-wallet-working-group/5577)                | [#wallet-working-group](https://discord.com/channels/613813861610684416/1197612609864728616)     |
 
 
 
