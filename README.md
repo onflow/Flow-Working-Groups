@@ -37,14 +37,14 @@ Meeting cadence and agendas can be found in each of the respective sub-folders.
 
 Additionally, groups also have a dedicated Discord channel for async discussions.
 
-| Group                   | Forum                                                                                        | Discord (optional)                                                                                |
-|-------------------------|:---------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|
-| Cadence Language Design | [Cadence Forum topic](https://forum.flow.com/t/cadence-language-design-working-group/5437)   | [#cadence-builders](https://discord.com/channels/613813861610684416/1108479699732152503)          |
-| Core Protocol           | [Core Protocol Forum topic](https://forum.flow.com/t/core-protocol-working-group-cp-wg/5578) | [#protocol-builders](https://discord.com/channels/613813861610684416/1108968095982293002)         |
-| Defi                    |                                                                                              ||
-| Governance              | [Governance Forum topic](https://forum.flow.com/t/governance-working-group-gwg/5403)         ||
-| User Experience         |                                                                                              ||
-| Wallet                  | [Wallet Forum topic](https://forum.flow.com/t/flow-wallet-working-group/5577)                | [#governance-working-group](https://discord.com/channels/613813861610684416/1179919909648601118)  |
+| Group                   | Forum                                                                                        | Discord (optional)                                                                               |
+|-------------------------|:---------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|
+| Cadence Language Design | [Cadence Forum topic](https://forum.flow.com/t/cadence-language-design-working-group/5437)   | [#cadence-builders](https://discord.com/channels/613813861610684416/1108479699732152503)         |
+| Core Protocol           | [Core Protocol Forum topic](https://forum.flow.com/t/core-protocol-working-group-cp-wg/5578) | [#protocol-builders](https://discord.com/channels/613813861610684416/1108968095982293002)        |
+| Defi                    |                                                                                              |                                                                                                  |
+| Governance              | [Governance Forum topic](https://forum.flow.com/t/governance-working-group-gwg/5403)         | [#governance-working-group](https://discord.com/channels/613813861610684416/1179919909648601118) |
+| User Experience         |                                                                                              |                                                                                                  |
+| Wallet                  | [Wallet Forum topic](https://forum.flow.com/t/flow-wallet-working-group/5577)                |                                                                                                  |
 
 
 
