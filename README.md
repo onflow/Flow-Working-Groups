@@ -8,20 +8,22 @@ The motivation is to harness the collective wisdom, insights, and expertise of t
 
 Flow has the following active working groups:
 
-1. [Cadence Language Design Working Group](./cadence_language_design_working_group): Focuses on Flow's Smart Contract programming language (Cadence) and it’s execution environment.
+1. **[Cadence Language Design Working Group](./cadence_language_design_working_group)**: Focuses on Flow's Smart Contract programming language (Cadence) and it’s execution environment.
 
 
-2. [Core Protocol Working Group](./core_protocol_working_group): Focuses on Flow’s future-proof architecture and efficiently scaling without compromising decentralization and composability.
+2. **[Core Protocol Working Group](./core_protocol_working_group)**: Focuses on Flow’s future-proof architecture and efficiently scaling without compromising decentralization and composability.
 
 
-3. [Defi Working Group](./defi_working_group): Focuses on all the Defi initiatives on Flow.
-
-4. [Governance Working Group](./governance_working_group): Focuses on community governance, protocol parameters, node operations and tokenomics.
-
-5. [User Experience Working Group](./user_experience_working_group): Focuses on enabling developers to craft exceptional user experiences within the Flow ecosystem.
+3. **[Defi Working Group](./defi_working_group)**: Focuses on all the Defi initiatives on Flow.
 
 
-7. [Wallet Working Group](./wallet_working_group): Aims to promote and exemplify the unique product possibilities for wallets on Flow, while establishing best-in-class wallet user experience and security standards, to enable developers to build compelling applications on Flow.
+4. **[Governance Working Group](./governance_working_group)**: Focuses on community governance, protocol parameters, node operations and tokenomics.
+
+
+5. **[User Experience Working Group](./user_experience_working_group)**: Focuses on enabling developers to craft exceptional user experiences within the Flow ecosystem.
+
+
+6. **[Wallet Working Group](./wallet_working_group)**: Aims to promote and exemplify the unique product possibilities for wallets on Flow, while establishing best-in-class wallet user experience and security standards, to enable developers to build compelling applications on Flow.
 
 These six groups cover all the major streams of work and a group can have sub-committees within it to focus on specific topics.
 
@@ -32,7 +34,7 @@ The working group goal is to drive their respective topic where members contribu
 ## How to join a working group?
 
 Each working group meets at a regular cadence. The meetings are public and **anyone** can join.
-Meeting invites are published on the groups forum topic summarized below. Please subscribe to the forum topics to receive a notification for the next meeting. 
+Meeting invites are published on the [group's forum topic](https://forum.flow.com/c/governance/flow-working-groups/40) summarized below. Please subscribe to the forum topics to receive a notification for the next meeting. 
 Meeting cadence, agendas, past meeting and other information can be found in each of the working group sub-folders.
 
 Additionally, groups also have a dedicated Discord channel for async discussions.
