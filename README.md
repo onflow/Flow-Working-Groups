@@ -34,7 +34,8 @@ The working group goal is to drive their respective topic where members contribu
 ## How to join a working group?
 
 Each working group meets at a regular cadence. The meetings are public and **anyone** can join.
-Meeting invites are published on the [group's forum topic](https://forum.flow.com/c/governance/flow-working-groups/40) summarized below. Please subscribe to the forum topics to receive a notification for the next meeting. 
+
+Meeting invites are published on the [Flow Events & Working Groups](https://bit.ly/flow-events-calendar) calendar and on [group's forum topic](https://forum.flow.com/c/governance/flow-working-groups/40) summarized below. Please subscribe to the forum topics to receive a notification for the next meeting.
 Meeting cadence, agendas, past meeting and other information can be found in each of the working group sub-folders.
 
 Additionally, groups also have a dedicated Discord channel for async discussions.
@@ -49,6 +50,6 @@ Additionally, groups also have a dedicated Discord channel for async discussions
 | Wallet                  | [Wallet Forum topic](https://forum.flow.com/t/flow-wallet-working-group/5577)                                                                                                         | [#wallet-working-group](https://discord.com/channels/613813861610684416/1197612609864728616)     |
 
 
-
+> [Flow Events & Working Groups](https://bit.ly/flow-events-calendar) calendar
 
 
