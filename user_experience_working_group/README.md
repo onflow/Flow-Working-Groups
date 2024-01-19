@@ -104,18 +104,9 @@ Aims to establish robust middleware, platform, and toolchain partnerships with t
 
 Data Access aims to comprehensively map out and address data access needs and services for developer user journeys in Flow. These conversations work towards:
 
-- **Comprehensive Data Access Mapping:** Identify and outline the diverse data access requirements across the ecosystem. This includes determining what APIs, tools, and data types are necessary for different developer personas and their projects.
-- **Developing Robust Data Services:** Creating and enhancing documentation, tutorials and services that facilitate easy and efficient data access. This encompasses APIs important for accessing onchain data like the Access Node API and Light Node API, ensuring they are tailored to the needs of devs.
-- **Enhancing Developer Experience:** Ensure that developers have seamless access to the data they need, whether it's for building applications, performing analytics, or integrating oracles.
-
-**Current Focus**
-
-- **Map Out Personas:** Define end-to-end data access developer journeys for different personas such as DeFi, NFTs and gaming.
-- **Documentation Enhancement**: Refining resources on Access and Light Node APIs. towards allowing developers to access the data they want faster.
-- **EVM Oracles:** Integrating and optimizing oracle services for EVM on Flow, providing reliable and timely off-chain data to smart contracts.
-- **EVM Data Indexing:** Integrating solutions for EVM data indexing (i.e. The Graph, Covalent etc.), ensuring efficient data retrieval and management.
-- **EVM On-Chain Analytics:** Enhancing on-chain analytics capabilities for EVM, enabling deeper insights and better decision-making processes for developers.
-
+- **Access Node Types:** We've released multiple versions of the access node software to satisfy different developer needs. This includes staked/unstaked access nodes and observer nodes. We want to look into community use cases for custom nodes to make sure we're satisfying the requirements properly.
+- **Enhancing Data Access API:** To make data access easier, we've released features like Event Streaming API. We want to make sure the provided API is robust enough to solve the problems users are facing.
+- **Accessing Old Data:** Flow spins out a new access node for each spork. This has made accessing older data cumbersome. We're looking to find community use cases for older data and map out the strategy for maintaining these nodes.
 
 ### **Community Growth**
 
