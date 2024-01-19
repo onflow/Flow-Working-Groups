@@ -8,7 +8,7 @@ In the CP-WG, we will align on priorities of planned features, define desired fe
 and iterate on the vision and roadmap for the development of Flow's underlying protocol.
 A central objective is to facilitate alignment and cooperation of protocol contributors,
 and to be an entry point for anyone wanting to familiarize themselves
-with the inner working of flow's protocol and its evolution.
+with the inner working of Flow's protocol and its evolution.
 
 We recommend the following documents outlining the long-term vision for Flow’s evolution:
 
@@ -53,7 +53,7 @@ Depending on the scope, we plan for sub-groups to focus on specific topics:
 For the near(er) future, we anticipate that the following research-and-development areas will be an important focus for the CP-WG.
 
 
-#### Dynamic Protocol State as a foundation for thread response capabilities, e.g. ban slashed node, revoke compromised keys, software upgrades
+#### Dynamic Protocol State as a foundation for threat response capabilities, e.g. ban slashed node, revoke compromised keys, software upgrades
 
 This work is a necessary premise for the Flow network to autonomously defend itself against
 malicious nodes within the network. On a technical level, the Dynamic Protocol State is the foundation for
@@ -61,7 +61,7 @@ countermeasures such as slashing misbehaving nodes or entirely revoking their au
 In a nutshell, the Dynamic Protocol State allows for updating various protocol parameters,
 such as permissions to participate, during the live operations of the Flow network.
 
-* Status: implementation completed (:point_right: [code on gitbub](https://github.com/onflow/flow-go/tree/feature/dynamic-protocol-state))
+* Status: implementation completed (:point_right: [code on GitHub](https://github.com/onflow/flow-go/tree/feature/dynamic-protocol-state))
 * Release date: Crescendo Upgrade
 * Further reading: [Dynamic Protocol State as building block for Byzantine Fault Tolerance [BFT] and an autonomously-operating Flow-network](https://forum.flow.com/t/dynamic-protocol-state-as-building-block-for-byzantine-fault-tolerance-bft-and-an-autonomously-operating-flow-network/4906)
 
@@ -103,14 +103,14 @@ As a result, the honest supermajority becomes resilient against a byzantine mino
   Furthermore, we have detailed logic in place for node operators to blacklist other nodes as a manual fallback mechanism to
   defend against attacks that are not yet automatically handled. Later this year, Flow will be able to withstand attacks (colluding and non-colluding)
   of up to ⅓ of all nodes, which is the theoretical maximum for consensus under partially-synchronous networking conditions.
-* Completion date: uncertain but likely within 2024
+* Target completion date: Late 2024
 
 
 #### Path to Zero-downtime protocol upgrades
 
 In 2023, Flow had an uptime of 99.95%. In 2024, we want to further reduce the number of sporks for uninterrupted network availability.
 During earlier stages, the ability to take down the network for a software upgrade has greatly helped the development
-speed of Flow. Though, as the flow network matures, we need more sophisticated tools to deploy software upgrades to a running network
+speed of Flow. Though, as the Flow network matures, we need more sophisticated tools to deploy software upgrades to a running network
 while maintaining network availability.
 
 At the moment, the Flow network already has Height-Coordinated Updates [HCU] as a tool to deploy protocol upgrades to the running network.
@@ -122,7 +122,7 @@ while all other node roles remain available. Nevertheless, there are some notabl
 2. Time-sensitive coordination is necessary for node operators to make sure their node loads the correct image after the HCU but not too early
    in case of an unforeseen crash. As software upgrades always entail some non-zero risk, all node operators need to be on standby during the HCU.
 3. When all Execution Nodes reboot synchronously, transaction processing stalls for a few minutes. Nevertheless, during Execution Nodes’ HCU,
-   the flow network continues to ingest and order transaction for subsequent execution.
+   the Flow network continues to ingest and order transaction for subsequent execution.
    Execution nodes catch up once they are back online with the new software version.
 
 The goal of this work is (i) to extend and refine the HCU mechanism to allow updates to other node roles (i.e. remove limitation 1)
@@ -198,8 +198,8 @@ There are 3 technical initiatives
     * Release date: unknown
     * Further Reading: [Separation of Payload store from Trie](https://www.notion.so/Separation-of-Payload-store-from-Trie-44d1cb50690448ad83b062935531f6bf?pvs=21)
 * Concurrent Transaction Execution and initiatives 1-3 here have an important dependency. It should be noted that Concurrent Transaction Execution is covered
-by the Cadence working group. Nevertheless, storage scaling critically depends on the ability to concurrently execute transaction. Thereby we can compensate
-for the increased latency when the state moves from completely in-memory to a hybrid structure with some rarely accessed registers offloaded to disk. 
+  by the Cadence working group. Nevertheless, storage scaling critically depends on the ability to concurrently execute transaction. Thereby we can compensate
+  for the increased latency when the state moves from completely in-memory to a hybrid structure with some rarely accessed registers offloaded to disk.
 
 
 The CP-WG is not limited to the aforementioned topics.
