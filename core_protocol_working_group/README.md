@@ -133,12 +133,20 @@ and (ii) evaluate potential avenues for rolling upgrades that do not require nod
 * Release date: unknown
 * Further reading: tbd
 
-#### Trustless and open access to chain data
+#### Scalable, Open and Trustless access to Chain Data
 
-Enabling local script execution and archival support on Access and Observer Nodes are next
-milestones on the development roadmap. In the longer term, Data Availability sub-working group  
-focuses on scaling the Access layer to support a terabyte-sized execution state (single snapshot without history)
-up to petabyte scale at maturity.
+Historically, Access nodes needed to interact with Execution nodes to handle queries about execution state
+(events, transaction results, script executions). This put limitations on the volume of requests that could be
+served across the network, as well as the amount of history available for scripts.
+
+This data is now available on Access nodes, with unstaked Observer nodes coming next.
+Work is underway to allow serving requests about all execution state directly on these Edge nodes (collective term for Access and Observer nodes),
+with configurable amount of history. In the longer term, Data Availability sub-working group focuses on
+scaling the Access layer to support a terabyte-sized execution state (single snapshot without history) up to petabyte scale at maturity.
+
+Currently, the initial version of local script execution and events is in development, with an alpha version coming soon.
+Subsequent work will be needed to index data before blocks are sealed,
+expand to Observer nodes on the public network and scale to larger amounts of state.
 
 * Further reading: [Future of Access Nodes](https://www.notion.so/dapperlabs/Future-of-Access-Nodes-9b1cc324eb5b40788a08a9404ae4505a?pvs=4)
 
