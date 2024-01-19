@@ -8,28 +8,47 @@ The motivation is to harness the collective wisdom, insights, and expertise of t
 
 Flow has the following active working groups:
 
-1. [Cadence Language Design Working Group](./cadence_language_design_working_group): Focuses on the design and implementation of Cadence. Its purpose is to investigate, design, and ultimately decide on language features and features for the Flow virtual machine (FVM).
+1. **[Cadence Language Design Working Group](./cadence_language_design_working_group)**: Focuses on Flow's Smart Contract programming language (Cadence) and it’s execution environment.
 
 
-2. [Core Protocol Working Group](./core_protocol_working_group): Focuses on Flow’s future-proof architecture and efficiently scaling without compromising decentralization and composability.
+2. **[Core Protocol Working Group](./core_protocol_working_group)**: Focuses on Flow’s future-proof architecture and efficiently scaling without compromising decentralization and composability.
 
 
-3. [Defi Working Group](./defi_working_group): Focuses on all the Defi initiatives on Flow.
-
-4. [Governance Working Group](./governance_working_group): Focuses on community governance, protocol parameters, node operations and tokenomics.
-
-5. [User Experience Working Group](./user_experience_working_group): Focuses on enabling developers to craft exceptional user experiences within the Flow ecosystem.
+3. **[Defi Working Group](./defi_working_group)**: Focuses on all the Defi initiatives on Flow.
 
 
-7. [Wallet Working Group](./wallet_working_group): Aims to promote and exemplify the unique product possibilities for wallets on Flow, while establishing best-in-class wallet user experience and security standards, to enable developers to build compelling applications on Flow.
+4. **[Governance Working Group](./governance_working_group)**: Focuses on community governance, protocol parameters, node operations and tokenomics.
+
+
+5. **[User Experience Working Group](./user_experience_working_group)**: Focuses on enabling developers to craft exceptional user experiences within the Flow ecosystem.
+
+
+6. **[Wallet Working Group](./wallet_working_group)**: Aims to promote and exemplify the unique product possibilities for wallets on Flow, while establishing best-in-class wallet user experience and security standards, to enable developers to build compelling applications on Flow.
 
 These six groups cover all the major streams of work and a group can have sub-committees within it to focus on specific topics.
 
 The working group goal is to drive their respective topic where members contribute towards ideation, research, designs and implementation of several initiatives under that topic.
 
 > **Everyone** is invited to join these working groups as per their areas of interest. 
->
-> To join a group, just show up at the meeting 😊
 
-Meeting cadence and agendas can be found in each of the respective sub-folders.
+## How to join a working group?
+
+Each working group meets at a regular cadence. The meetings are public and **anyone** can join.
+Meeting invites are published on the [group's forum topic](https://forum.flow.com/c/governance/flow-working-groups/40) summarized below. Please subscribe to the forum topics to receive a notification for the next meeting. 
+Meeting cadence, agendas, past meeting and other information can be found in each of the working group sub-folders.
+
+Additionally, groups also have a dedicated Discord channel for async discussions.
+
+| Group                   | Forum                                                                                                                                                                                 | Discord (optional)                                                                               |
+|-------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|
+| Cadence Language Design | [Cadence Forum topic](https://forum.flow.com/t/cadence-language-design-working-group/5437)                                                                                            | [#cadence-builders](https://discord.com/channels/613813861610684416/1108479699732152503)         |
+| Core Protocol           | [Core Protocol Forum topic](https://forum.flow.com/t/core-protocol-working-group-cp-wg/5578)                                                                                          | [#protocol-builders](https://discord.com/channels/613813861610684416/1108968095982293002)        |
+| Defi                    |                                                                                                                                                                                       |                                                                                                  |
+| Governance              | [Governance Forum topic](https://forum.flow.com/t/governance-working-group-gwg/5403)                                                                                                  | [#governance-working-group](https://discord.com/channels/613813861610684416/1179919909648601118) |
+| User Experience         | [User Experience Forum topic](https://forum.flow.com/t/user-experience-working-group/5496)                                                                                            |                                                                                                  |
+| Wallet                  | [Wallet Forum topic](https://forum.flow.com/t/flow-wallet-working-group/5577)                                                                                                         | [#wallet-working-group](https://discord.com/channels/613813861610684416/1197612609864728616)     |
+
+
+
+
 

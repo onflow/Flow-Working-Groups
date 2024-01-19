@@ -36,11 +36,10 @@ The Flow Wallet Working Group aims to enhance wallets on Flow through the develo
 
 The working group meets weekly (TBD).
 
-Email wallet-wg@flowfoundation.org to receive an invite to join!
 
 ## Minutes
 
-Minutes & Recordings from previous meetings are available in the [minutes](/minutes) folder.
+Minutes & Recordings from previous meetings will be made available here in github.
 
 
 
