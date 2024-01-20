@@ -1,4 +1,4 @@
-# Flow's Core-Protocol Working Group
+# Flow Core-Protocol Working Group
 
 The **Core Protocol Working Group** [**CP-WG**] is an open-for-all forum with
 a focus on Flow's future-proof architecture: efficiently scaling without compromising decentralization and composability
