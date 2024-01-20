@@ -30,7 +30,9 @@ These six groups cover all the major streams of work. Some groups have sub-commi
 
 The working group goal is to drive their respective topic where members contribute towards ideation, research, designs and implementation of several initiatives under that topic.
 
+> [!IMPORTANT]
 > **Everyone** is invited to join these working groups as per their areas of interest. 
+>
 
 ## How to join a working group?
 
@@ -41,7 +43,7 @@ Meeting cadence, agendas, past meeting and other information can be found in eac
 
 Additionally, groups also have a dedicated Discord channel for async discussions.
 
-| Group                   | Forum                                                                                                                                                                                 | Discord (optional)                                                                               |
+| Group                   | Forum                                                                                                                                                                                 | Discord                                                                                          |
 |-------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|
 | User Experience         | [User Experience Forum topic](https://forum.flow.com/t/user-experience-working-group/5496)
 | Wallet                  | [Wallet Forum topic](https://forum.flow.com/t/flow-wallet-working-group/5577)                                                                                                         | [#wallet-working-group](https://discord.com/channels/613813861610684416/1197612609864728616)     |
