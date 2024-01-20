@@ -8,24 +8,25 @@ The motivation is to harness the collective wisdom, insights, and expertise of t
 
 Flow has the following active working groups:
 
-1. **[Cadence Language Design Working Group](./cadence_language_design_working_group)**: Focuses on Flow's Smart Contract programming language (Cadence) and it’s execution environment.
+1. **[User Experience Working Group](./user_experience_working_group)**: Focuses on enabling developers to craft exceptional user experiences within the Flow ecosystem.
 
 
-2. **[Core Protocol Working Group](./core_protocol_working_group)**: Focuses on Flow’s future-proof architecture and efficiently scaling without compromising decentralization and composability.
+2. **[Wallet Working Group](./wallet_working_group)**: Aims to promote and exemplify the unique product possibilities for wallets on Flow, while establishing best-in-class wallet user experience and security standards, to enable developers to build compelling applications on Flow.
 
 
 3. **[Defi Working Group](./defi_working_group)**: Focuses on all the Defi initiatives on Flow.
 
 
-4. **[Governance Working Group](./governance_working_group)**: Focuses on community governance, protocol parameters, node operations and tokenomics.
+4. **[Cadence Language Design Working Group](./cadence_language_design_working_group)**: Focuses on Flow's Smart Contract programming language (Cadence) and it’s execution environment.
 
 
-5. **[User Experience Working Group](./user_experience_working_group)**: Focuses on enabling developers to craft exceptional user experiences within the Flow ecosystem.
+5. **[Core Protocol Working Group](./core_protocol_working_group)**: Focuses on Flow’s future-proof architecture and efficiently scaling without compromising decentralization and composability.
 
 
-6. **[Wallet Working Group](./wallet_working_group)**: Aims to promote and exemplify the unique product possibilities for wallets on Flow, while establishing best-in-class wallet user experience and security standards, to enable developers to build compelling applications on Flow.
+6. **[Governance Working Group](./governance_working_group)**: Focuses on community governance, protocol parameters, node operations and tokenomics.
 
-These six groups cover all the major streams of work and a group can have sub-committees within it to focus on specific topics.
+
+These six groups cover all the major streams of work. Some groups have sub-committees within, to focus on specific topics under the main stream of work.
 
 The working group goal is to drive their respective topic where members contribute towards ideation, research, designs and implementation of several initiatives under that topic.
 
@@ -42,14 +43,16 @@ Additionally, groups also have a dedicated Discord channel for async discussions
 
 | Group                   | Forum                                                                                                                                                                                 | Discord (optional)                                                                               |
 |-------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|
+| User Experience         | [User Experience Forum topic](https://forum.flow.com/t/user-experience-working-group/5496)
+| Wallet                  | [Wallet Forum topic](https://forum.flow.com/t/flow-wallet-working-group/5577)                                                                                                         | [#wallet-working-group](https://discord.com/channels/613813861610684416/1197612609864728616)     |
+| Defi                    |                                                                                                                                                                                       |                                                                                                  |
 | Cadence Language Design | [Cadence Forum topic](https://forum.flow.com/t/cadence-language-design-working-group/5437)                                                                                            | [#cadence-builders](https://discord.com/channels/613813861610684416/1108479699732152503)         |
 | Core Protocol           | [Core Protocol Forum topic](https://forum.flow.com/t/core-protocol-working-group-cp-wg/5578)                                                                                          | [#protocol-builders](https://discord.com/channels/613813861610684416/1108968095982293002)        |
-| Defi                    |                                                                                                                                                                                       |                                                                                                  |
-| Governance              | [Governance Forum topic](https://forum.flow.com/t/governance-working-group-gwg/5403)                                                                                                  | [#governance-working-group](https://discord.com/channels/613813861610684416/1179919909648601118) |
-| User Experience         | [User Experience Forum topic](https://forum.flow.com/t/user-experience-working-group/5496)                                                                                            |                                                                                                  |
-| Wallet                  | [Wallet Forum topic](https://forum.flow.com/t/flow-wallet-working-group/5577)                                                                                                         | [#wallet-working-group](https://discord.com/channels/613813861610684416/1197612609864728616)     |
+| Governance              | [Governance Forum topic](https://forum.flow.com/t/governance-working-group-gwg/5403)                                                                                                  | [#governance-working-group](https://discord.com/channels/613813861610684416/1179919909648601118) |                                                                                        |                                                                                                  |
 
 
-> [Flow Events & Working Groups](https://bit.ly/flow-events-calendar) calendar
 
+> [!NOTE]
+> 📆 [Flow Events & Working Groups](https://bit.ly/flow-events-calendar) calendar
+>
 
