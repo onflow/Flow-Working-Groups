@@ -13,7 +13,7 @@ In the Early 2024 the purpose of the working group was expanded to also cover to
 
 * [Current Priorities](#current-priorities)
 * [Roadmap](#roadmap)
-* [Meetings](#meetings)
+* [Meetings](#How-To-Engage-With-The-Cadence-Working-Group)
 * [Minutes/Recordings](#minutes)
 
 ### Current Priorities
@@ -34,11 +34,12 @@ In the Early 2024 the purpose of the working group was expanded to also cover to
 | Start work on Cadence language specification | Not Started | | |This goal will have multiple phases, moving from informal to formal specification definition and will span range of short and long-term priorities. It delivers incremental benefits as it progresses, in 2 core areas; efficiency of implementing new features and hardening the implementation. More specifically, it will enable efficient validation of the Cadence codebase against the specification and enforce more structured audit of the implementation as the specification is written. It will also make it more efficient to write defensive checks (e.g. resource duplication) and alternative components like compiler. In other words - instead of relying on deriving the correct behaviour from the current implementation, we will be able to derive it from specification, which is much easier.|
 
 
-## Meetings
+## How To Engage With The Cadence Working Group
 
-The Cadence working group breakout sessions are always scheduled in [Flow Webinars & Events calendar](https://calendar.google.com/calendar/u/0?cid=Y180Nzk3OGY1Y2Q5ZGE2MzZjYWRjNmI4NDczMTAyYjUwOTJjMWE4NjVkZDAxMDU1ODM5M2VjYjdmOWZkMGM5YWQwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) and announced on [flow-events Discord channel](https://discord.com/channels/613813861610684416/1050190147100102787).
+We will be updating The [Cadence Language Design Working Group](https://forum.flow.com/t/cadence-language-design-working-group/5437) forum topic to announce new meetings - you can subscribe to the forum post to receive email notifications by pressing the "bell" icon.
+The Cadence working group breakout sessions are always scheduled in [Flow Webinars & Events calendar](https://calendar.google.com/calendar/u/0?cid=Y180Nzk3OGY1Y2Q5ZGE2MzZjYWRjNmI4NDczMTAyYjUwOTJjMWE4NjVkZDAxMDU1ODM5M2VjYjdmOWZkMGM5YWQwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) and are alo announced on [flow-events Discord channel](https://discord.com/channels/613813861610684416/1050190147100102787).
 The breakout sessions are typically happening on a monthly basis, but additional sessions might be scheduled on-demand (as often as twice a week), based on the amount and urgency of topics scheduled for discussion.
-Anyone can request a topic being added to the agenda by contacting the [Cadence-builders Discord channel](https://discord.com/channels/613813861610684416/1108479699732152503).
+Anyone can request a topic being added to the meeting agenda by contacting the [Cadence-builders Discord channel](https://discord.com/channels/613813861610684416/1108479699732152503).
 
 ## Minutes
 Minutes & Recordings from previous meetings will be made available here in github.
