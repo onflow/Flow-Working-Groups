@@ -18,25 +18,27 @@ Early 2024 this purpose of the working group was expanded to also cover topics r
 
 ### Current Priorities
 
-- Complete & Launch Cadence 1.0 Release.
+- Complete & Launch Cadence 1.0 Release (Covered by milestones 1-6 in the roadmap table below).
 
 ## Roadmap
 
 | Features / Milestones | Status | Release Target | Progress | Comments |
-| [Complete Cadence 1.0 Implementation](https://github.com/onflow/cadence/issues/2642) | In Progress | 30 March 2024 | On Track |All Must-have Features and breaking changes have been completed. Remianing scope covers mainly bugs and small improvements.|
-| Complete [EVM on Flow Implementation](https://github.com/onflow/flow-go/issues/5241) | In Progress | Feb 2024 |  | |
-| Complete [EVM JSON RPC Endpoint Implementation](https://github.com/onflow/flow-evm-gateway/issues/12) | In Progress | Feb 2024 | | |
-| Complete Cadence 1.0 State Migrations Implementation | In Progress | End of Jan 2024 | | |
-| Launch Cadence 1.0 and Flow EVM on [Crescendo Stable TestNet](https://forum.flow.com/t/update-on-cadence-1-0-upgrade-plan/5597) | In Progress | Feb 2024 | | |
-| Launch Cadence 1.0 on [Crescendo Migration TestNet](https://forum.flow.com/t/update-on-cadence-1-0-upgrade-plan/5597) | Not Started | Feb 2024 | | |
-| Start work on Cadence language specification | Not Started | | |This goal will have multiple phases, moving from informal to formal specification definition and will span range of short and long-term priorities.
-It delivers incremental benefits as it progresses, in 2 core areas; efficiency of implementing new features and hardening the implementation. More specifically, it will enable efficient validation of the Cadence codebase against the specification and enforce more structured audit of the implementation as the specification is written. It will also make it more efficient to write defensive checks (e.g. resource duplication) and alternative components like compiler. In other words - instead of relying on deriving the correct behaviour from the current implementation, we will be able to derive it from specification, which is much easier.|
-|Design & develop capabilities for backward-compatible language evolution and non-breaking language extensions (e.g. Cadence compilation and runtime bytecode execution in the Cadence VM).| On Hold | | | |
+| ---------------------------------------------------| --------- | -------------- | --------------- | ------------- |
+| 1 [Complete Cadence 1.0 Implementation](https://github.com/onflow/cadence/issues/2642) | In Progress | 30 March 2024 | On Track |All Must-have Features and breaking changes have been completed. Remaining scope covers mainly bugs and small improvements.|
+| 2 Complete [EVM on Flow Implementation](https://github.com/onflow/flow-go/issues/5241) | In Progress | Feb 2024 |  | |
+| 3 Complete [EVM JSON RPC Endpoint Implementation](https://github.com/onflow/flow-evm-gateway/issues/12) | In Progress | Feb 2024 | | |
+| 4 Complete Cadence 1.0 State Migrations Implementation | In Progress | End of Jan 2024 | | |
+| 5 Launch Cadence 1.0 and Flow EVM on [Crescendo Stable TestNet](https://forum.flow.com/t/update-on-cadence-1-0-upgrade-plan/5597) | In Progress | Feb 2024 | | |
+| 6 Launch Cadence 1.0 on [Crescendo Migration TestNet](https://forum.flow.com/t/update-on-cadence-1-0-upgrade-plan/5597) | Not Started | Feb 2024 | | |
+|Design & develop capabilities for backward-compatible language evolution and non-breaking language extensions.| On Hold | | | On hold until we have capacity. One area of focus is for example Cadence compilation and runtime bytecode execution in the Cadence VM.|
+| Start work on Cadence language specification | Not Started | | |This goal will have multiple phases, moving from informal to formal specification definition and will span range of short and long-term priorities. It delivers incremental benefits as it progresses, in 2 core areas; efficiency of implementing new features and hardening the implementation. More specifically, it will enable efficient validation of the Cadence codebase against the specification and enforce more structured audit of the implementation as the specification is written. It will also make it more efficient to write defensive checks (e.g. resource duplication) and alternative components like compiler. In other words - instead of relying on deriving the correct behaviour from the current implementation, we will be able to derive it from specification, which is much easier.|
+
 
 ## Meetings
 
 The Cadence working group breakout sessions are always scheduled in [Flow Webinars & Events calendar](https://calendar.google.com/calendar/u/0?cid=Y180Nzk3OGY1Y2Q5ZGE2MzZjYWRjNmI4NDczMTAyYjUwOTJjMWE4NjVkZDAxMDU1ODM5M2VjYjdmOWZkMGM5YWQwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) and announced on [flow-events Discord channel](https://discord.com/channels/613813861610684416/1050190147100102787).
-The breakout sessions are typically happeing on-demand, based on the number of topics for discussion collected since the last meeting. 
+The breakout sessions are typically happening on a monthly basis, but additional sessions might be scheduled on-demand (as often as twice a week), based on the amount and urgency of topics scheduled for discussion.
+Anyone can request a topic being added to the agenda by contacting the [Cadence-builders Discord channel](https://discord.com/channels/613813861610684416/1108479699732152503).
 
 ## Minutes
 Minutes & Recordings from previous meetings will be made available here in github.
