@@ -1,7 +1,7 @@
 # Cadence Working Group
 
 ## Intro
-Cadence Working Group is an open-for-all forum with a focus on Flow's Smart Contract programming language (Cadence) and it’s execution environment.
+Cadence Working Group is an open-for-all forum with a focus on Flow's Smart Contract programming language ([Cadence](https://cadence-lang.org/)) and it’s execution environment.
 
 ### Objectives
 * Build the best programming language for developers to safely and efficiently explore new applications of smart contracts and on-chain logic.
@@ -24,12 +24,12 @@ In the Early 2024 the purpose of the working group was expanded to also cover to
 
 | Features / Milestones | Status | Release Target | Progress | Comments |
 | ---------------------------------------------------| --------- | -------------- | --------------- | ------------- |
-| 1 [Complete Cadence 1.0 Implementation](https://github.com/onflow/cadence/issues/2642) | In Progress | 30 March 2024 | On Track |All Must-have Features and breaking changes have been completed. Remaining scope covers mainly bugs and small improvements.|
+| 1 [Complete Cadence 1.0 Implementation](https://github.com/onflow/cadence/issues/2642) | In Progress | 30 March 2024 | On Track |All Must-have Features and breaking changes have been completed. Remaining scope covers mainly bugs and small improvements. [Learn more about Cadence 1.0 changes](https://forum.flow.com/t/update-on-cadence-1-0/5197).|
 | 2 Complete [EVM on Flow Implementation](https://github.com/onflow/flow-go/issues/5241) | In Progress | Feb 2024 |  | |
 | 3 Complete [EVM JSON RPC Endpoint Implementation](https://github.com/onflow/flow-evm-gateway/issues/12) | In Progress | Feb 2024 | | |
 | 4 Complete Cadence 1.0 State Migrations Implementation | In Progress | End of Jan 2024 | | |
-| 5 Launch Cadence 1.0 and Flow EVM on [Crescendo Stable TestNet](https://forum.flow.com/t/update-on-cadence-1-0-upgrade-plan/5597) | In Progress | Feb 2024 | | |
-| 6 Launch Cadence 1.0 on [Crescendo Migration TestNet](https://forum.flow.com/t/update-on-cadence-1-0-upgrade-plan/5597) | Not Started | Feb 2024 | | |
+| 5 Launch Cadence 1.0 and Flow EVM on [Crescendo Stable TestNet](https://forum.flow.com/t/update-on-cadence-1-0-upgrade-plan/5597) | In Progress | Feb 2024 | |Learn more about the launch plan [here](https://forum.flow.com/t/cadence-1-0-upgrade-plan/5477) |
+| 6 Launch Cadence 1.0 on [Crescendo Migration TestNet](https://forum.flow.com/t/update-on-cadence-1-0-upgrade-plan/5597) | Not Started | Feb 2024 | | Learn more about the launch plan [here](https://forum.flow.com/t/cadence-1-0-upgrade-plan/5477)|
 |Design & develop capabilities for backward-compatible language evolution and non-breaking language extensions.| On Hold | | | On hold until we have capacity. One area of focus is for example Cadence compilation and runtime bytecode execution in the Cadence VM.|
 | Start work on Cadence language specification | Not Started | | |This goal will have multiple phases, moving from informal to formal specification definition and will span range of short and long-term priorities. It delivers incremental benefits as it progresses, in 2 core areas; efficiency of implementing new features and hardening the implementation. More specifically, it will enable efficient validation of the Cadence codebase against the specification and enforce more structured audit of the implementation as the specification is written. It will also make it more efficient to write defensive checks (e.g. resource duplication) and alternative components like compiler. In other words - instead of relying on deriving the correct behaviour from the current implementation, we will be able to derive it from specification, which is much easier.|
 
