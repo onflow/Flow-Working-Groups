@@ -13,7 +13,7 @@ In the Early 2024 the purpose of the working group was expanded to also cover to
 
 * [Current Priorities](#current-priorities)
 * [Roadmap](#roadmap)
-* [Meetings](#How-To-Engage-With-The-Cadence-Working-Group)
+* [How To Engage With The Cadence Working Group](#How-To-Engage-With-The-Cadence-Working-Group)
 * [Minutes/Recordings](#minutes)
 
 ### Current Priorities
