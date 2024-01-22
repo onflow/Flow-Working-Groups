@@ -8,7 +8,7 @@ Cadence Working Group is an open-for-all forum with a focus on Flow's Smart Cont
 * Represent and promote Cadence in a wider software development and Web3 community.
 
 ### History
-Cadence Working Group started as "Cadence Language Design Meetings" (LDM) - series of meetings focusing on the implementation of Cadence programming language that started in Juy 2022. You can access all notes from those meetings in the ["meetings" directory in the Cadence Repository](https://github.com/onflow/cadence/tree/master/meetings).
+Cadence Working Group started as "Cadence Language Design Meetings" (LDM) - series of meetings focusing on the implementation of Cadence programming language that started in July 2022. You can access all notes from those meetings in the ["meetings" directory in the Cadence Repository](https://github.com/onflow/cadence/tree/master/meetings).
 In the Early 2024 the purpose of the working group was expanded to also cover topics related to Cadence runtime enviroment, a component of Flow Execution Node.
 
 * [Current Priorities](#current-priorities)
