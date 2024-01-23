@@ -212,3 +212,11 @@ There are 3 technical initiatives
 
 The CP-WG is not limited to the aforementioned topics.
 We invite all CP-WG participants to bring up other areas in the core protocol that they feel are important for the broader evolution of Flow.
+
+## Meetings
+
+The working group meets monthly on the third Thursday. Please check the [calendar](https://github.com/onflow/Flow-Working-Groups/tree/main?tab=readme-ov-file#calendar) for the next meeting.
+
+## Minutes
+
+Minutes & Recordings from previous meetings will be made available here in github under [meetings](./meetings)

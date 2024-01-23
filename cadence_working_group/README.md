@@ -36,10 +36,10 @@ In the Early 2024 the purpose of the working group was expanded to also cover to
 
 ## How To Engage With The Cadence Working Group
 
-We will be updating The [Cadence Language Design Working Group](https://forum.flow.com/t/cadence-language-design-working-group/5437) forum topic to announce new meetings - you can subscribe to the forum post to receive email notifications by pressing the "bell" icon.
-The Cadence working group breakout sessions are always scheduled in [Flow Webinars & Events calendar](https://calendar.google.com/calendar/u/0?cid=Y180Nzk3OGY1Y2Q5ZGE2MzZjYWRjNmI4NDczMTAyYjUwOTJjMWE4NjVkZDAxMDU1ODM5M2VjYjdmOWZkMGM5YWQwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) and are alo announced on [flow-events Discord channel](https://discord.com/channels/613813861610684416/1050190147100102787).
+The Cadence working group breakout sessions are always scheduled on the [Flow Webinars & Events calendar](https://github.com/onflow/Flow-Working-Groups/tree/main?tab=readme-ov-file#calendar) and are alo announced on [flow-events Discord channel](https://discord.com/channels/613813861610684416/1050190147100102787).
 The breakout sessions are typically happening on a monthly basis, but additional sessions might be scheduled on-demand (as often as twice a week), based on the amount and urgency of topics scheduled for discussion.
 Anyone can request a topic being added to the meeting agenda by contacting the [Cadence-builders Discord channel](https://discord.com/channels/613813861610684416/1108479699732152503).
+
 
 ## Minutes
 Minutes & Recordings from previous meetings will be made available here in github.
