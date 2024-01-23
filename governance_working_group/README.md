@@ -2,11 +2,12 @@
 
 # Introduction
 
-The Flow Governance Working Group (GWG) exists to set out the process and structures for verifiable, participatory decision-making and technical upgrades in key areas, including:
+The [Flow Governance Working Group (GWG)](https://flow.com/network-governance) exists to set out the process and structures for verifiable, participatory decision-making and technical upgrades in key areas, including:
 
 - Flow protocol security and performance parameters (changing minimum stake requirements, operator rewards, delegator fees, storage pricing, transaction fee rates from the [tokenomics working group](https://github.com/onflow/twg) proposals)
 - Flow Foundation treasury spending (recommending allocation of the Flow Ecosystem Development Fund)
-- Flow Foundation & community management (recommending new board members and leadership)
+- Flow Foundation & community management
+
 
 The GWG is responsible for facilitating FLIPs going to vote on Flow’s voting tool: [cast](https://cast.fyi/#/)
 
