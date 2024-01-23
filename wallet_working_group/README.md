@@ -23,18 +23,18 @@ The Flow Wallet Working Group aims to enhance wallets on Flow through the develo
 
 - Surface human-readable messaging and audited status of a transaction during transaction authorization by using FLIX.
 
-## Roadmap (TBD)
+## Roadmap
  
-| Features                                           | Status    | Release Target | Progress        |  Comments     |
-| ---------------------------------------------------| --------- | -------------- | --------------- | ------------- |
-| FRW - Secure Encalve (Mobile)                      | PROGRESS  | FRW v2.1       | [Track]() (TBD) |Enables secure enclave support in Flow Reference Wallet|
-| FRW - Multi-Divice support                         | PROGRESS  | FRW v2.1       | [Track]() (TBD) |Enables multiple Flow Reference Wallet apps across different devices to manage the same Flow account|
-| FRW - Secure Enclave Crypto SDK                    | PROGRESS  | FRW v2.1       | [Track]() (TBD) |Produce an open source SDK which developers can use to perform crypto enclave using secure enclave|
-| FRW - FlowEVM                                      | PLANNING  | FRW v2.2       | [Track]() (TBD) |Support FlowEVM within Flow Refernce Wallet.|
+| Features                                           | Status    | Release Target | Progress   |  Comments     |
+| ---------------------------------------------------| --------- | -------------- |------------| ------------- |
+| FRW - Secure Encalve (Mobile)                      | PROGRESS  | FRW v2.1       | [Track]()  |Enables secure enclave support in Flow Reference Wallet|
+| FRW - Multi-Divice support                         | PROGRESS  | FRW v2.1       | [Track]()  |Enables multiple Flow Reference Wallet apps across different devices to manage the same Flow account|
+| FRW - Secure Enclave Crypto SDK                    | PROGRESS  | FRW v2.1       | [Track]()  |Produce an open source SDK which developers can use to perform crypto enclave using secure enclave|
+| FRW - FlowEVM                                      | PLANNING  | FRW v2.2       | [Track]()  |Support FlowEVM within Flow Refernce Wallet.|
 
 ## Meetings
 
-The working group meets weekly (TBD).
+The working group meets monthly on the third Wednesday. Please check the [calendar](https://github.com/onflow/Flow-Working-Groups/tree/main?tab=readme-ov-file#calendar) for the next meeting.
 
 
 ## Minutes
