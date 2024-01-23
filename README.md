@@ -46,7 +46,7 @@ Additionally, groups also have a dedicated Discord channel for async discussions
 
 | Group                   | Discord                                                                                          |
 |-------------------------|:-------------------------------------------------------------------------------------------------|
-| User Experience         |                                                                                                  |
+| User Experience         | [#developers](https://discord.com/channels/613813861610684416/1162086721471647874)                                                                                                    |
 | Wallet                  | [#wallet-working-group](https://discord.com/channels/613813861610684416/1197612609864728616)     |
 | Defi                    | [#defi-working-group](https://discord.com/channels/613813861610684416/1198082772141621408/)      |
 | Cadence Language Design | [#cadence-builders](https://discord.com/channels/613813861610684416/1108479699732152503)         |
