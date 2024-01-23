@@ -39,6 +39,13 @@ The Defi working group is dedicated to developing essential infrastructure and f
 
 # Meeting Schedule
 
-**Middle of every month on a Friday.**
+Monthly on the third Friday.
 
-**Inaugural meeting: Feb 16th, 2024 @8am Pacific Time** 
+Inaugural meeting: Feb 16th, 2024 @5pm Pacific Time
+
+Please check the [calendar](https://github.com/onflow/Flow-Working-Groups/tree/main?tab=readme-ov-file#calendar) for the next meeting.
+
+
+## Minutes
+
+Minutes & Recordings from previous meetings will be made available here in github.
