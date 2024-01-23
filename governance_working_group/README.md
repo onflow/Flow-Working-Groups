@@ -66,7 +66,8 @@ The key responsibilities to ensure effective problem-solving in this area includ
 
 # Meeting Schedule
 
-**The last Tuesday of every month at 8am Pacific Time (starting Feb 2024) **
+The last Tuesday of every month at 8am Pacific Time (starting Feb 2024)
+
 Please check the [calendar](https://github.com/onflow/Flow-Working-Groups/tree/main?tab=readme-ov-file#calendar) for the next meeting.
 
 **Inaugural meeting: October 31, 2023 @8am Pacific Time** 
