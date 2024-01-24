@@ -2,16 +2,16 @@
 
 Welcome to the User Experience (UX) Working Group on Flow! Our mission is to empower developers to craft exceptional user experiences within the Flow ecosystem. By fostering a culture of transparency and community involvement, we aim to work with the greater Flow ecosystem to shape the future of web3. 
 
-The UX Working Group comprises 5 Focus Areas:
-1) Education & Tooling
+The UX Working Group comprises 4 Focus Areas:
+1) Data Access & Tooling
 
 2) Smart Contract Standards
 
 3) Developer Infrastructure
 
-4) Data Access
+4) Education & Community Growth
 
-5) Community Growth
+To join any of these areas, simply add the [Working Groups calendar](https://calendar.google.com/calendar/ical/c_47978f5cd9da636cadc6b8473102b5092c1a865dd010558393ecb7f9fd0c9ad0%40group.calendar.google.com/public/basic.ics) and hop on the next session.
 
 ## ****Our Vision and Goals****
 
@@ -51,7 +51,7 @@ The UX working group thrives on the collective input, expertise, and creativity 
 
 The Developer Experience (DevEx) Working Group on Flow is a collaborative hub divided into five key focus areas. These areas cover a range of topics essential to the development and growth of the Flow ecosystem. To get involved, identify the area(s) that resonate with your skills and interests.
 
-### **Education & Tooling**
+### **Data Access & Tooling**
 
 Aims to elevate the developer experience on Flow, creating an ecosystem where developers have easy access to the tools and knowledge they need to succeed.
 
@@ -59,14 +59,15 @@ Education & Tooling is dedicated to enhancing the experience, infrastructure and
 
 - **Create Better Developer Documentation**: Ensure official docs cover everything developers need at every level of expertise in consistent, easy to understand mediums. Give feedback on newly published docs and identify missing topics.
 - **Enhance Developer Tools:** Update and refine development frameworks and platforms. This ensures developers can build applications on Flow faster and more efficiently.
-- **Expand Educational Resources & Skill Development:** Produce and distribute top-tier educational content, best practices, and practical guides.
 - **Insight Sharing:** We continuously gather and analyze data trends within the Flow developer community. These insights drive our discussions and strategies to improve the developer ecosystem further.
+- **Access Node Types:** We've released multiple versions of the access node software to satisfy different developer needs. This includes staked/unstaked access nodes and observer nodes. We want to look into community use-cases for custom nodes to make sure we're satisfying the requirements properly.
+- **Enhancing Data Access API:** To make data access easier, we've released features like Event Streaming API. We want to make sure the provided API is robust enough to solve the problems users are facing.
+- **Accessing Old Data:** Flow spins out a new access node for each spork. This has made accessing older data cumbersome. We're looking to find community use cases for older data and map out the strategy for maintaining these nodes.
 
 **Current Focus**
 
-- **EVM Compatibility:** Streamlining the integration and functionality of EVM within Flow around docs and educational resources.
+- **EVM Compatibility:** Streamlining the integration and functionality of EVM within Flow around docs and tooling.
 - **EVM Developer Journeys:** Crafting seamless and intuitive development paths for EVM users on Flow.
-- **Cadence 1.0 Migration Path:** Facilitating a smooth transition for developers to the new version of Cadence. This includes creating a Cadence 1.0 certification program, comprehensive guides and workshops.
 - **EVM Opportunities**: Develop comprehensive guides and materials for Cadence developers on accessing and leveraging new liquidity opportunities, data oracles and other EVM features.
 - **Builder Integration**: Create effective process for incorporating builders feedback, recognizing contributions and showcasing success stories.
 
@@ -99,16 +100,7 @@ Aims to establish robust middleware, platform, and toolchain partnerships with t
 - **Optimizing EVM Integration:** Ensuring that the launch of EVM on Flow is accompanied by a robust and seamless integration with existing popular toolchains, clients, and frameworks, guaranteeing a smooth transition and immediate productivity for developrs.
 - **Co-Marketing**: Work closely with partners on highlighting important announcements and integrations as well as highlighting success stories.
 
-
-### Data Access
-
-Data Access aims to comprehensively map out and address data access needs and services for developer user journeys in Flow. These conversations work towards:
-
-- **Access Node Types:** We've released multiple versions of the access node software to satisfy different developer needs. This includes staked/unstaked access nodes and observer nodes. We want to look into community use cases for custom nodes to make sure we're satisfying the requirements properly.
-- **Enhancing Data Access API:** To make data access easier, we've released features like Event Streaming API. We want to make sure the provided API is robust enough to solve the problems users are facing.
-- **Accessing Old Data:** Flow spins out a new access node for each spork. This has made accessing older data cumbersome. We're looking to find community use cases for older data and map out the strategy for maintaining these nodes.
-
-### **Community Growth**
+### **Education & Community Growth**
 
 Aims to establish open, innovative and vibrant culture in the Flow ecosystem. The focus of this area is strengthening community ties, collaboration, composability, showcasing outstanding projects, and ensuring effective communication and information dissemination across the entire network. These conversations work towards:
 
@@ -118,6 +110,7 @@ Aims to establish open, innovative and vibrant culture in the Flow ecosystem. Th
 - **Project Spotlight:** Actively highlight and promote innovative projects within the Flow ecosystem, showcasing their contributions and encouraging wider recognition and support. Work with new projects on co-marketing announcements and launches in the ecosystem.
 - **Optimizing Information Flow:** Ensure that crucial information, updates, and developments are effectively communicated across the community, maintaining transparency.
 - **Insight and Trend Analysis:** Gather and analyze data on the community growth and app usage. Utilize these insights to guide discussions and strategies for ongoing improvement.
+- **Expand Educational Resources & Skill Development:** Produce and distribute top-tier educational content, best practices, and practical guides.
 
 **Current Focus**
 
@@ -126,6 +119,7 @@ Aims to establish open, innovative and vibrant culture in the Flow ecosystem. Th
 - **Project Discoverability:** Implement strategies to enhance the visibility and accessibility of projects on Flow, making it easier for users to discover and engage with new and existing initiatives.
 - **Events Calendar**: Work with the community to plan and attend important web3 events around the world.
 - **Ambassador Program**: Develop and reimagine a modern ambassador type program of evangelists for the Flow network.
+- **Cadence 1.0 Migration Path:** Facilitating a smooth transition for developers to the new version of Cadence. This includes creating a Cadence 1.0 certification program, comprehensive guides and workshops.
 
 ### **Repo Structure**
 
