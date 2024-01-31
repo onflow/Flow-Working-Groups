@@ -3,13 +3,15 @@
 **Meeting #1 **
 
 **Date**: October 31, 2023 [Tuesday], 8-9.30 AM PST
+**Meeting Frequency**: Biweekly
+**Adding to yourself as an Attendee or Update Agenda**: Any attendee can make a PR to update the Atendees as well as Agenda
 
 **Attendees**:
 
 - Johnny (Increment.fi)
-- Kshitij Chaudhary (Flow)
-- Layne Lafrance (Flow)
-- Vishal Changrani (Flow)
+- Kshitij Chaudhary (Flow Foundation)
+- Layne Lafrance (Flow Foundation)
+- Vishal Changrani (Flow Foundation)
 
 **Agenda**
 
@@ -21,10 +23,12 @@
 6. **Discussion on Cast Tool:** The group delved into a detailed discussion on the necessity of the Cast tool and whether it aligns with community requirements.
 7. **Next Agenda:** The meeting concluded with a preview of the next agenda, which includes addressing existing issues, node selection, working group's role, and efforts to restore community confidence.
 
-**Key Decisions**
+**Key Decisions, Goals & Outcomes**
 
 1. Quantnode was approved to run a Verification Node; the same has been communicated to them.
-2. Resources are crucial and limited and spending them on making Cast an on-chain voting tool can be delayed; this was based on an understanding of similar market offerings like snapshot which also store votes off-chain (like Cast)
+2. Resources are crucial and limited and spending them on making Cast an on-chain voting tool can be delayed; this was based on an understanding of similar market offerings like snapshot which also store votes off-chain (like Cast).
 3. Node selection criteria was laid out at a high level. The final draft will be created and shared by the Flow core team soon and presented to the GWG for final approval.
 
 **Links**
+- ReadAI Summary 
+- Video Recording on Youtube
