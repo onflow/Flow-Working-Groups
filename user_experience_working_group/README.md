@@ -86,7 +86,6 @@ Aims to establish open, innovative and vibrant culture in the Flow ecosystem. Th
 
 - **Create Better Developer Documentation**: Ensure official docs cover everything developers need at every level of expertise in consistent, easy to understand mediums. Give feedback on newly published docs and identify missing topics.
 - **Developer Advocacy:** Actively represent and champion the needs and interests of developers within the Flow ecosystem, ensuring their voices are heard and their contributions recognized.
-- **Flow Messaging**: Refining marketing messaging about Flow to attract innovative builders to the ecosystem.
 - **Enhancing Community Engagement:** Implement strategies to foster deeper engagement within the community, creating engaging competitions, encouraging active participation and feedback in ecosystem developments.
 - **Project Spotlight:** Actively highlight and promote innovative projects within the Flow ecosystem, showcasing their contributions and encouraging wider recognition and support. Work with new projects on co-marketing announcements and launches in the ecosystem.
 - **Optimizing Information Flow:** Ensure that crucial information, updates, and developments are effectively communicated across the community, maintaining transparency.
