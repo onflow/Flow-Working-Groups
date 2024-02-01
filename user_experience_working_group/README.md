@@ -66,6 +66,8 @@ Dev Tools is dedicated to enhancing the experience, infrastructure and education
 - **EVM Developer Journeys:** Crafting seamless and intuitive development paths for EVM users on Flow.
 - **EVM Opportunities**: Develop comprehensive guides and materials for Cadence developers on accessing and leveraging new liquidity opportunities, data oracles and other EVM features.
 - **Builder Integration**: Create effective process for incorporating builders feedback, recognizing contributions and showcasing success stories.
+- **Cadence 1.0 Migration Tools**: Create tools to ease transition of devs into Cadence 1.0.
+
 
 ### **Smart Contract Standards**
 
