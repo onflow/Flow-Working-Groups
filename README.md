@@ -17,7 +17,7 @@ Flow has the following active working groups:
 3. **[Defi Working Group](./defi_working_group)**: Focuses on all the Defi initiatives on Flow.
 
 
-4. **[Cadence Language Design Working Group](./cadence_language_design_working_group)**: Focuses on Flow's Smart Contract programming language (Cadence) and it’s execution environment.
+4. **[Cadence Working Group](./cadence_working_group)**: Focuses on Flow's Smart Contract programming language (Cadence) and its execution environment.
 
 
 5. **[Core Protocol Working Group](./core_protocol_working_group)**: Focuses on Flow’s future-proof architecture and efficiently scaling without compromising decentralization and composability.
@@ -38,22 +38,25 @@ The working group goal is to drive their respective topic where members contribu
 
 Each working group meets at a regular cadence. The meetings are public and **anyone** can join.
 
-Meeting invites are published on the [Flow Events & Working Groups](https://bit.ly/flow-events-calendar) calendar and on [group's forum topic](https://forum.flow.com/c/governance/flow-working-groups/40) summarized below. Please subscribe to the forum topics to receive a notification for the next meeting.
+Meeting invites are published on the [Flow Events & Working Groups](https://bit.ly/flow-events-calendar) calendar and posted on the [Flow Discord server](https://discord.com/invite/J6fFnh2xx6).
 Meeting cadence, agendas, past meeting and other information can be found in each of the working group sub-folders.
 
 Additionally, groups also have a dedicated Discord channel for async discussions.
 
-| Group                   | Forum                                                                                                                                                                                 | Discord                                                                                          |
-|-------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|
-| User Experience           | [User Experience Forum topic](https://forum.flow.com/t/user-experience-working-group/5496)                                                                                          | [#developers](https://discord.com/channels/613813861610684416/1162086721471647874)        |
-| Wallet                  | [Wallet Forum topic](https://forum.flow.com/t/flow-wallet-working-group/5577)                                                                                                         | [#wallet-working-group](https://discord.com/channels/613813861610684416/1197612609864728616)     |
-| Defi                    |                                                                                                                                                                                       |                                                                                                  |
-| Cadence Language Design | [Cadence Forum topic](https://forum.flow.com/t/cadence-language-design-working-group/5437)                                                                                            | [#cadence-builders](https://discord.com/channels/613813861610684416/1108479699732152503)         |
-| Core Protocol           | [Core Protocol Forum topic](https://forum.flow.com/t/core-protocol-working-group-cp-wg/5578)                                                                                          | [#protocol-builders](https://discord.com/channels/613813861610684416/1108968095982293002)        |
-| Governance              | [Governance Forum topic](https://forum.flow.com/t/governance-working-group-gwg/5403)                                                                                                  | [#governance-working-group](https://discord.com/channels/613813861610684416/1179919909648601118) |                                                                                        |                                                                                                  |
+
+| Group                   | Discord                                                                                          |
+|-------------------------|:-------------------------------------------------------------------------------------------------|
+| User Experience         | [#developers](https://discord.com/channels/613813861610684416/1162086721471647874)                                                                                                    |
+| Wallet                  | [#wallet-working-group](https://discord.com/channels/613813861610684416/1197612609864728616)     |
+| Defi                    | [#defi-working-group](https://discord.com/channels/613813861610684416/1198082772141621408/)      |
+| Cadence Language Design | [#cadence-builders](https://discord.com/channels/613813861610684416/1108479699732152503)         |
+| Core Protocol           | [#protocol-builders](https://discord.com/channels/613813861610684416/1108968095982293002)        |
+| Governance              | [#governance-working-group](https://discord.com/channels/613813861610684416/1179919909648601118) |
 
 
+## Calendar
 
+All working group meeting invites will be posted on the following calendar.
 > [!NOTE]
 > 📆 [Flow Events & Working Groups](https://bit.ly/flow-events-calendar) calendar
 >

@@ -2,11 +2,12 @@
 
 # Introduction
 
-The Flow Governance Working Group (GWG) exists to set out the process and structures for verifiable, participatory decision-making and technical upgrades in key areas, including:
+The [Flow Governance Working Group (GWG)](https://flow.com/network-governance) exists to set out the process and structures for verifiable, participatory decision-making and technical upgrades in key areas, including:
 
-- Flow protocol security and performance parameters (changing minimum stake requirements, operator rewards, delegator fees, storage pricing, transaction fee rates from the [tokenomics working group](https://github.com/onflow/twg) proposals)
+- Flow protocol security and performance parameters (changing minimum stake requirements, operator rewards, delegator fees, storage pricing, transaction fee rates from the [tokenomics working group](./tokenomics_working_group) proposals)
 - Flow Foundation treasury spending (recommending allocation of the Flow Ecosystem Development Fund)
-- Flow Foundation & community management (recommending new board members and leadership)
+- Flow Foundation & community management
+
 
 The GWG is responsible for facilitating FLIPs going to vote on Flow’s voting tool: [cast](https://cast.fyi/#/)
 
@@ -65,6 +66,12 @@ The key responsibilities to ensure effective problem-solving in this area includ
 
 # Meeting Schedule
 
-**The last Tuesday of every month at 8am Pacific Time.** 
+The last Tuesday of every month at 8am Pacific Time (starting Feb 2024)
+
+Please check the [calendar](https://github.com/onflow/Flow-Working-Groups/tree/main?tab=readme-ov-file#calendar) for the next meeting.
 
 **Inaugural meeting: October 31, 2023 @8am Pacific Time** 
+
+## Minutes
+
+Minutes & Recordings from previous meetings will be made available here in github under [meetings](./meetings)
