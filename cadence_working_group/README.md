@@ -1,7 +1,7 @@
-# Cadence Working Group
+# Cadence Language and Execution Working Group
 
 ## Intro
-Cadence Working Group is an open-for-all forum with a focus on Flow's Smart Contract programming language ([Cadence](https://cadence-lang.org/)) and it’s execution environment.
+Cadence Language and Execution Working Group is an open-for-all forum with a focus on Flow's Smart Contract programming language ([Cadence](https://cadence-lang.org/)) and it’s execution environment.
 
 ### Objectives
 * Build the best programming language for developers to safely and efficiently explore new applications of smart contracts and on-chain logic.
