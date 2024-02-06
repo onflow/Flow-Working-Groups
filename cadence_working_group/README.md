@@ -34,7 +34,7 @@ In the Early 2024 the purpose of the working group was expanded to also cover to
 | Start work on Cadence language specification | Not Started | Q2 2024 |              |This goal will have multiple phases, moving from informal to formal specification definition and will span range of short and long-term priorities. It delivers incremental benefits as it progresses, in 2 core areas; efficiency of implementing new features and hardening the implementation. More specifically, it will enable efficient validation of the Cadence codebase against the specification and enforce more structured audit of the implementation as the specification is written. It will also make it more efficient to write defensive checks (e.g. resource duplication) and alternative components like compiler. In other words - instead of relying on deriving the correct behaviour from the current implementation, we will be able to derive it from specification, which is much easier.|
 
 
-## How To Engage With The Cadence Working Group
+## How To Engage With The Cadence Language and Execution Working Group
 
 The working group meeting is monthly on the fourth Tuesday.
 Please check the [calendar](https://github.com/onflow/Flow-Working-Groups/tree/main?tab=readme-ov-file#calendar) for the next meeting.
