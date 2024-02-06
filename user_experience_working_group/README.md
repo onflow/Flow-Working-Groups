@@ -11,20 +11,47 @@ The UX Working Group comprises 3 Focus Areas:
 
 To join any of these areas, simply add the [Working Groups calendar](https://calendar.google.com/calendar/ical/c_47978f5cd9da636cadc6b8473102b5092c1a865dd010558393ecb7f9fd0c9ad0%40group.calendar.google.com/public/basic.ics) and hop on the next session.
 
-## ****Our Vision and Goals****
+## **** Our Objectives and Key Results ****
 
-**In the Short Term**
+Bring Cadence 1.0 to market as part of the Crescendo release to minimize customer impact and developer effort
+KR1: 90% of Active Mainnet Contracts are successfully staged and upgraded
+KR2: 90% of Valid & Active Testnet Contracts are successfully staged and upgraded
+KR3: 100% of key existing liquidity infrastructure are ready for Cadence 1.0 release deployed on Testnet for Day 0
+KR4: 100% of key developer platforms are ready for Cadence 1.0 release deployed on Testnet for Day 0
 
-- **Expanding Developer Reach:** We're committed to enlarging Flow's developer community by integrating EVM (Ethereum Virtual Machine) compatibility, making it easier for Ethereum developers to transition to Flow as well as allow Cadence developers to access new opportunities and markets.
-- **Enhancing Educational Resources:** We’re developing comprehensive and high-quality educational materials that streamline the developer journey, enabling builders to seamlessly create on Flow.
-- **Elevating Developer Tools and Platforms:** We focus on bringing top-notch developer tools and platforms into the Flow ecosystem, enhancing the building process.
-- **Fostering a Vibrant Community:** We aim to cultivate a robust community of builders, encouraging collaboration, innovation, and shared learning.
+Bring EVM on Flow to Market as part of the Crescendo release to increase liquidity and bring top-tier developer platforms to our network
+KR1: Bring on best-in-class creator & mainstream builder platforms to Flow EVM (Autograph, OpenSea, Bastion , Privy) on EVM Mainnet Day
+KR2: Bring key multi-chain liquidity infrastructure to work with EVM (including bridges)
+KR3: Bring token analytics platforms to index across EVM and Cadence environments 
+KR4: Integrate a data indexer to work with both Cadence and EVM environments
+KR5: Ensure and create user experiences that power execution  inter-compatibility.
 
-**For the Long Term**
+Use the Crescendo Release grow Flow's developer base and network activity
+KR1: Acquire new interest on Flow using the Crescendo Release
+KR2: Activate new developers to interact with the Crescendo
 
-- **Supporting Innovative Web3 Applications:** Our vision is to attract and assist groundbreaking Web3 applications and builders, nurturing the development of valuable and transformative user experiences.
-- **Unlock Ideas:** We want define what Web3 applications could be, unlock the innovative potential of composability, set standards and expectations for the future of the industry.
-- **Make Web3** **Mainstream:** Our ultimate goal is to make Web3 mainstream for both developers and users alike, breaking new ground in how web3 interacts with our daily lives and meeting people where they are at.
+## **** Agenda ****
+**Dev Tools Agenda for meeting Feb 14th**
+- Cadence 1.0 Migration User Stories
+- Contract migration (syntax and data?)
+- Transaction and scripts migrations
+- Cadence 1.0 Migration Support Tools
+  - Flow-CLI
+  - Stage contracts commands 
+  - Emulator Support (flow-es cli version)
+  - Add Cadence v1 Lint to Flow-CLI
+  - Smart Contract Clustering
+  - Custom GPT
+- Ledger (Josh) & Flow Port (fcl-js six libs)
+
+**Education Agenda for meeting Feb 13th**
+- Cadence 1.0 Features and Value Proposition Messaging
+- Cadence 1.0 Documentation
+- Cadence 1.0 Guides and Tutorials
+- Cadence 1.0 Staging and upgrade steps
+- Cadence 1.0 certification program
+- Cadence 1.0 Ecosystem Outreach 
+
 
 ## ****Who Can Join This Working Group?****
 
