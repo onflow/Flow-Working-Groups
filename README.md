@@ -17,7 +17,7 @@ Flow has the following active working groups:
 3. **[Defi Working Group](./defi_working_group)**: Focuses on all the Defi initiatives on Flow.
 
 
-4. **[Cadence Working Group](./cadence_working_group)**: Focuses on Flow's Smart Contract programming language (Cadence) and its execution environment.
+4. **[Cadence Language and Execution Working Group](./cadence_language_and_execution_working_group)**: Focuses on Flow's Smart Contract programming language (Cadence) and its execution environment.
 
 
 5. **[Core Protocol Working Group](./core_protocol_working_group)**: Focuses on Flow’s future-proof architecture and efficiently scaling without compromising decentralization and composability.
