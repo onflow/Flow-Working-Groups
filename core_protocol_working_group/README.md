@@ -215,7 +215,7 @@ We invite all CP-WG participants to bring up other areas in the core protocol th
 
 ## Meetings
 
-The working group meets monthly on the third Thursday. Please check the [calendar](https://github.com/onflow/Flow-Working-Groups/tree/main?tab=readme-ov-file#calendar) for the next meeting.
+The working group meets monthly on the third Thursday. Please check the 📆 [Flow Events & Working Groups](https://bit.ly/flow-events-calendar) calendar for the next meeting.
 
 ## Minutes
 
