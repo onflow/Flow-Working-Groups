@@ -11,7 +11,7 @@ The UX Working Group comprises 3 Focus Areas:
 
 To join any of these areas, simply add the [Working Groups calendar](https://calendar.google.com/calendar/ical/c_47978f5cd9da636cadc6b8473102b5092c1a865dd010558393ecb7f9fd0c9ad0%40group.calendar.google.com/public/basic.ics) and hop on the next session.
 
-## **** Our Objectives and Key Results ****
+## Our Objectives and Key Results
 
 Bring Cadence 1.0 to market as part of the Crescendo release to minimize customer impact and developer effort
 KR1: 90% of Active Mainnet Contracts are successfully staged and upgraded
@@ -29,29 +29,6 @@ KR5: Ensure and create user experiences that power execution  inter-compatibilit
 Use the Crescendo Release grow Flow's developer base and network activity
 KR1: Acquire new interest on Flow using the Crescendo Release
 KR2: Activate new developers to interact with the Crescendo
-
-## **** Agenda ****
-**Dev Tools Agenda for meeting Feb 14th**
-- Cadence 1.0 Migration User Stories
-- Contract migration (syntax and data?)
-- Transaction and scripts migrations
-- Cadence 1.0 Migration Support Tools
-  - Flow-CLI
-  - Stage contracts commands 
-  - Emulator Support (flow-es cli version)
-  - Add Cadence v1 Lint to Flow-CLI
-  - Smart Contract Clustering
-  - Custom GPT
-- Ledger (Josh) & Flow Port (fcl-js six libs)
-
-**Education Agenda for meeting Feb 13th**
-- Cadence 1.0 Features and Value Proposition Messaging
-- Cadence 1.0 Documentation
-- Cadence 1.0 Guides and Tutorials
-- Cadence 1.0 Staging and upgrade steps
-- Cadence 1.0 certification program
-- Cadence 1.0 Ecosystem Outreach 
-
 
 ## ****Who Can Join This Working Group?****
 
