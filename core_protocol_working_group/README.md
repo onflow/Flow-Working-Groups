@@ -34,9 +34,13 @@ CP-WG is part of a larger family of Working groups
 [Governance Working Group](../governance_working_group).
 For various topics, expertise from two (or maybe more) working groups might be needed.
 
-We use the [meetings](./meetings) folder,
-to record our ongoing meetings. For each meeting, there is
-one markdown file in the format `<yyyy-mm-dd>_cp-wp_meeting<optional_details>.md`.
+- Planned meeting cadence: roughly monthly
+- Meeting announcements:
+    - all working group meetings on 📆 [Flow Events & Working Groups](https://bit.ly/flow-events-calendar) calendar
+    - Mailing list  `protocol@flow.com`
+- Will use [ReadAI](www.read.ai) for meeting minutes and recordings
+- Agendas, minutes and meeting recordings tracked in the [meetings](./meetings) folder. For each meeting, there is one markdown file in the format `yyyy-mm-dd.md`.
+
 
 
 ### Sub-Working-Groups
@@ -219,4 +223,4 @@ The working group meets monthly on the third Thursday. Please check the 📆 [Fl
 
 ## Minutes
 
-Minutes & Recordings from previous meetings will be made available here in github under [meetings](./meetings)
+Minutes & Recordings from previous meetings will be made available here in github in the [meetings](./meetings) folder.
