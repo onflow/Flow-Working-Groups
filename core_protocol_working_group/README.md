@@ -112,7 +112,7 @@ As a result, the honest supermajority becomes resilient against a byzantine mino
 
 #### Path to Zero-downtime protocol upgrades
 
-In 2023, Flow had an uptime of 99.95%. In 2024, we want to further reduce the number of sporks for uninterrupted network availability.
+In 2023, Flow had an uptime of 99.9%. In 2024, we want to further reduce the number of sporks for uninterrupted network availability.
 During earlier stages, the ability to take down the network for a software upgrade has greatly helped the development
 speed of Flow. Though, as the Flow network matures, we need more sophisticated tools to deploy software upgrades to a running network
 while maintaining network availability.
