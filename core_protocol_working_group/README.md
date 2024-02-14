@@ -34,9 +34,13 @@ CP-WG is part of a larger family of Working groups
 [Governance Working Group](../governance_working_group).
 For various topics, expertise from two (or maybe more) working groups might be needed.
 
-We use the [meetings](./meetings) folder,
-to record our ongoing meetings. For each meeting, there is
-one markdown file in the format `<yyyy-mm-dd>_cp-wp_meeting<optional_details>.md`.
+- Planned meeting cadence: roughly monthly
+- Meeting announcements:
+    - all working group meetings on 📆 [Flow Events & Working Groups](https://bit.ly/flow-events-calendar) calendar
+    - Mailing list  `protocol@flow.com`
+- Will use [ReadAI](www.read.ai) for meeting minutes and recordings
+- Agendas, minutes and meeting recordings tracked in the [meetings](./meetings) folder. For each meeting, there is one markdown file in the format `yyyy-mm-dd.md`.
+
 
 
 ### Sub-Working-Groups
@@ -108,7 +112,7 @@ As a result, the honest supermajority becomes resilient against a byzantine mino
 
 #### Path to Zero-downtime protocol upgrades
 
-In 2023, Flow had an uptime of 99.95%. In 2024, we want to further reduce the number of sporks for uninterrupted network availability.
+In 2023, Flow had an uptime of 99.9%. In 2024, we want to further reduce the number of sporks for uninterrupted network availability.
 During earlier stages, the ability to take down the network for a software upgrade has greatly helped the development
 speed of Flow. Though, as the Flow network matures, we need more sophisticated tools to deploy software upgrades to a running network
 while maintaining network availability.
@@ -215,8 +219,8 @@ We invite all CP-WG participants to bring up other areas in the core protocol th
 
 ## Meetings
 
-The working group meets monthly on the third Thursday. Please check the [calendar](https://github.com/onflow/Flow-Working-Groups/tree/main?tab=readme-ov-file#calendar) for the next meeting.
+The working group meets monthly on the third Thursday. Please check the 📆 [Flow Events & Working Groups](https://bit.ly/flow-events-calendar) calendar for the next meeting.
 
 ## Minutes
 
-Minutes & Recordings from previous meetings will be made available here in github under [meetings](./meetings)
+Minutes & Recordings from previous meetings will be made available here in github in the [meetings](./meetings) folder.
