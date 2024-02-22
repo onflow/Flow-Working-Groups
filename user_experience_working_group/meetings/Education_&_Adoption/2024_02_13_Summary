@@ -1,0 +1,69 @@
+Summary:
+
+The Education Working Group kickoff meeting was held to discuss various aspects of the group's work, including the importance of community involvement, setting a regular cadence, and incorporating diverse voices. The group outlined its overall flow and emphasized the need to share the agenda in advance and document key decisions made during discussions. The meeting also covered the OKRs for the current cycle, the role of working groups in shaping the foundation's efforts, and the goals of bringing Cadence to market as part of the Crescendo release.
+
+During the meeting, the discussion focused on the challenges and uncertainties related to upgrading and learning resources for stable cadence. Participants expressed concerns about the lack of comprehensive and finalized educational materials, as well as the potential for future changes impacting their learning process. The group also explored the optimal platforms for disseminating information, with a focus on webcasts, Twitter, and Discord. The conversation delved into the challenges of accessing scattered information within the community, prompting the need for a more cohesive approach.
+
+The meeting also discussed potential applications of the Flow blockchain in the healthcare industry, such as using it for patient identity and encryption, and collaborating with NHS leaders and healthcare identity experts. The challenges of upgrading to Cadence were also discussed, with concerns raised about the potential breakage of existing resources and the difficulty in finding updated information. The group highlighted the need for more comprehensive documentation and clear guidelines for upgrading code.
+
+Overall, the Education Working Group kickoff meeting was a collaborative effort to address various aspects of the group's work and the challenges faced by the community in upgrading to Cadence and learning resources for stable cadence. The group emphasized the importance of community involvement, setting a regular cadence, and incorporating diverse voices to stay informed about the foundation's work and ecosystem.
+
+
+Chapters & Topics:
+
+Education Working Group Kickoff
+Ali Serag led the kickoff for the Education Working Group, emphasizing the collaborative decision-making model and the importance of involving the community. The meeting covered topics such as recording the sessions, updating the agenda, and encouraging diverse participation to stay at the cutting edge of the foundation's work and ecosystem.
+* X-Road and Spaceship upgrade for Web compatibility
+
+Discussion on OKRs, Working Groups, and Features for Crescendo Release
+Ali Serag leads the discussion on the OKRs for the current cycle, emphasizing the importance of the user experience working group and its subgroups. He highlights the goals of bringing Cadence to market as part of the Crescendo release and ensuring a successful upgrade process for contracts. Ian Pun introduces the topic of features and messaging for Crescendo, focusing on the benefits of using the package and the migration requirements for old contracts.
+* Staging and upgrade steps
+
+Discussion on Information Dissemination Platforms
+Ian, Arun, and Brian engage in a discussion about the most effective platforms for sharing information. Arun advocates for webcasts, highlighting their advantages and the potential for gaining followers, while Brian emphasizes the importance of reaching audiences across various platforms. The conversation also touches on the challenges of accessing scattered information within the community.
+
+Excitement about Flow Ecosystem and Healthcare Industry Integration
+Bz zz, a pharmacist, shares their enthusiasm for integrating the Flow ecosystem into the healthcare industry, discussing potential applications like using the Flow blockchain for patient identity and encryption. They also mention collaborating with NHS leaders and healthcare identity experts, such as Professor Buchanan, to promote Flow and brainstorm working prototypes within the NHS England clinical entrepreneur program.
+
+Discussion on Stable Cadence and its Impact on Builders
+BZ shares insights on the challenges faced by existing builders on Flow in updating smart contracts and the discouragement it brings. He also expresses concerns about the learning curve and the impact on rapid development in a fast-moving market, while Ali Serag multitasks during the discussion.
+
+Importance of Documentation and Video Content for Flow
+Brian Pistone raises concerns about the potential negative impact of insufficient documentation and video content on Flow, highlighting the importance of these resources for attracting and retaining builders. He specifically praises Jacob Tucker's extensive video content and its influence on developer onboarding. Ali Serag acknowledges Jacob Tucker's role as a key source of education and developer onboarding in the ecosystem.
+
+Challenges with Upgrading to Cadence
+Ali Serag and Bz zz express frustration over the lack of updated resources and documentation for upgrading to Cadence. They discuss the impact on developers, including the loss of momentum and the uncertainty about adding new features. The conversation also touches on the challenges faced by newcomers trying to navigate the outdated information.
+
+Challenges with Learning and Adapting to Cadence
+Bz zz discusses the challenges of relearning Cadence due to updates and expresses reliance on a new course for guidance. Ali Serag focuses on the business value and opportunity costs of upgrading contracts, while Alexandr Ni emphasizes the time and effort required for learning and adapting to the changes, particularly from a founder's perspective.
+
+Discussion on Upgrading and Learning Resources
+Alexandr Ni and Bz zz discussed the use of official documentation for insights on upgrading, with Bz zz expressing disillusionment with the search results. Ali Serag and Bz zz also highlighted uncertainties about the stability of cadence and the need for finalized educational resources before investing time in learning. Brian Pistone and Ian Pun echoed these concerns, emphasizing the importance of real-world examples and finalized documentation for confident learning and migration decisions.
+
+Discussion on Cadence Changes and Resources
+Ali and Brian delve into the sources of information for Cadence changes, including documentation, courses, and trial and error. They emphasize the need for a more detailed migration guide and clear standards for upgrading code. Additionally, they discuss the importance of providing simpler examples and updating outdated digital content.
+
+Staging and Upgrade Steps, Certification Program, Cadence Ecosystem Outreach, X-Road and Spaceship
+Ali Serag provides an overview of the staging and upgrade steps for Cadence changes, the certification program for Cadence developers, and the Cadence Ecosystem Outreach campaign. Arun Nadarasa shares insights on X-Road and its potential integration with Flow blockchain for healthcare applications, highlighting the opportunity for partnership with Crescendo in the web3 aspect of X-Road.
+* Cadence Ecosystem Outreach
+* Certification program for Cadence developers
+* Cadence language and its changes
+
+
+Action Items:
+
+* Ali Serag will link the summary created by Read AI to the meeting notes for easy reference and upload the recordings to YouTube or another platform.
+* Communicate clearly to the ecosystem when it is safe to start learning and upgrading contracts with Cadence.
+* Focus on making it easy for everyone to upgrade their contracts to be compatible with stable cadence as part of the overall OKRs for the quarter. Ali Serag will ensure that everyone finds it very easy to upgrade their contracts.
+* Flesh out the migration guide for Cadence upgrades and make it more useful for developers.
+* Jacob Tucker will create more extensive examples and material for Cadence upgrades on Emerald Academy.
+* Arun Nadarasa will add the tagged statement to the bottom of the agenda for discussion about staging and upgrade steps.
+* Develop a certification program for Cadence developers to connect them with ecosystem partners for contract work.
+* Create a multi-stage campaign to raise awareness about Cadence resources and materials in the ecosystem.
+
+
+Key Questions:
+
+* What are the most valuable resources for staying on top of Cadence changes?
+* How do we create a multi-stage campaign to raise awareness about Cadence resources and materials?
+* How frequent should the education-focused working group sessions be and should there be a dedicated Discord channel for asynchronous communication?
