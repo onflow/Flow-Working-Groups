@@ -1,10 +1,10 @@
-# Flow Core Protocol Working Group (2024-02-22 10:02 GMT-8) - Transcript**
+# Flow Core Protocol Working Group (2024-02-22 10:02 GMT-8) - Transcript
 
-## **Attendees**
+**Attendees**
 
 Alex Hentschel, Alex Hentschel's Presentation, Alex Ni, Bastian Müller, Chirag Narang, Dieter Shirley, Jan Bernatik, Janez Podhostnik, Jerome Pimmel, jonny, Jordan Schalm, Kan Zhang, Khalil Claybon, Kshitij Chaudhary, Layne Lafrance, Leo Zhang, Navid TehraniFar, Peter Argue, Peter Markou, read.ai meeting notes, Sjon-Paul Brown, Tarak Ben Youssef, Uliana Andrukhiv, Vishal Changrani, Yurii Oleksyshyn, Yurii Oleksyshyn's Presentation, Андрій Слісарчук (Andrii Slisarchuk)
 
-## **Transcript**
+## Transcript
 
 *This editable transcript was computer generated and might contain errors. People can also change the text after it was created.*
 
