@@ -8,7 +8,7 @@ The motivation is to harness the collective wisdom, insights, and expertise of t
 
 Flow has the following active working groups:
 
-1. **[User Experience Working Group](./user_experience_working_group)**: Focuses on enabling developers to craft exceptional user experiences within the Flow ecosystem.
+1. **[Applications (formally UX) Working Group](./user_experience_working_group)**: Focuses on enabling developers to craft apps with exceptional user experiences within the Flow ecosystem.
 
 
 2. **[Wallet Working Group](./wallet_working_group)**: Aims to promote and exemplify the unique product possibilities for wallets on Flow, while establishing best-in-class wallet user experience and security standards, to enable developers to build compelling applications on Flow.
@@ -46,7 +46,7 @@ Additionally, groups also have a dedicated Discord channel for async discussions
 
 | Group                   | Discord                                                                                          |
 |-------------------------|:-------------------------------------------------------------------------------------------------|
-| User Experience         | [#developers](https://discord.com/channels/613813861610684416/1162086721471647874)                                                                                                    |
+| Applications         | [#developers](https://discord.com/channels/613813861610684416/1162086721471647874)                                                                                                    |
 | Wallet                  | [#wallet-working-group](https://discord.com/channels/613813861610684416/1197612609864728616)     |
 | Defi                    | [#defi-working-group](https://discord.com/channels/613813861610684416/1198082772141621408/)      |
 | Cadence Language Design | [#cadence-builders](https://discord.com/channels/613813861610684416/1108479699732152503)         |
