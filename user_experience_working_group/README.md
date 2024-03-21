@@ -1,6 +1,6 @@
-## ****Introduction to the User Experience (UX) Working Group****
+## ****Introduction to the Applications (formally UX) Working Group****
 
-Welcome to the User Experience (UX) Working Group on Flow! Our mission is to empower developers to craft exceptional user experiences within the Flow ecosystem. By fostering a culture of transparency and community involvement, we aim to work with the greater Flow ecosystem to shape the future of web3. 
+Welcome to the Applications Working Group on Flow! Our mission is to empower developers to craft exceptional user experiences within the Flow ecosystem. By fostering a culture of transparency and community involvement, we aim to work with the greater Flow ecosystem to shape the future of web3. 
 
 The UX Working Group comprises 3 Focus Areas:
 1) Dev Tools
