@@ -43,10 +43,8 @@ For various topics, expertise from two (or maybe more) working groups might be n
 
 #### Technical contributions
 - Discord: [protocol-builders](https://discord.com/channels/613813861610684416/1108968095982293002) channel
-- [forum.flow.com](https://forum.flow.com/) for exploratory discussions with technical depth
-
-  Please use `category` [:hammer_and_wrench: Builders / Flow Protocol](https://forum.flow.com/c/builders/protocol/38)
-- Concrete (actionable) Flow Improvement Proposal [FLIP] in [github.com/onflow/**flips**](https://github.com/onflow/flips/)
+- [forum.flow.com](https://forum.flow.com/) for exploratory discussions with technical depth (Please use `category` [:hammer_and_wrench: Builders / Flow Protocol](https://forum.flow.com/c/builders/protocol/38))
+- Concrete (actionable) Flow Improvement Proposal [FLIP] go in [github.com/onflow/**flips**](https://github.com/onflow/flips/)
 
 ### Sub-Working-Groups
 
