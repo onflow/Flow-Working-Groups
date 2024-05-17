@@ -30,8 +30,7 @@ Uliana Andrukhiv,
 Vishal Changrani
 
 ## Transcript
-Flow Core-Protocol and Cadence-Execution Joint Working Group 
-Wed. May 15, 2024
+*This editable transcript was computer generated and might contain errors*
 
 **Alex Hentschel**: Welcome everyone. So this is a joint meeting of the Cadence and execution working group and the core protocol working group. Our main topic today is EVM compatibility.
 
