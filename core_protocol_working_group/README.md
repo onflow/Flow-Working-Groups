@@ -136,9 +136,9 @@ The goal of this work is (i) to extend and refine the HCU mechanism to allow upd
 and (ii) evaluate potential avenues for rolling upgrades that do not require nodes of one role to reboot in a time-coordinated manner
 (remove limitation 2 and 3 for some upgrades).
 
-* Status: not started
+* Status: early development
 * Release date: unknown
-* Further reading: tbd
+* Further reading: [Protocol Version Upgrade Mechanisms](https://forum.flow.com/t/protocol-version-upgrade-mechanisms-discussion/5717) on the Flow forum
 
 #### Scalable, Open and Trustless access to Chain Data
 
