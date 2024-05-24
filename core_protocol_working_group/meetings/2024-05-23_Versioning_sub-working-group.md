@@ -35,14 +35,12 @@ Misc links of prior discussions and related
 - [[Brainstorming] HCU-style upgrades for all node roles](https://flowfoundation.notion.site/Brainstorming-HCU-style-upgrades-for-all-node-roles-b6b0ab084075432782cd0407b73479c7) (notion)
 - [issue #5324](https://github.com/onflow/flow-go/issues/5324): to make a FLIP for software ↔ protocol
 
-## Meeting Notes
 
 ---
 - [Video Recoding](https://drive.google.com/file/d/1f3tUqVaA425iFS8u-ldyZRHNr4u5udDx/view?usp=sharing)
 - Meeting Transcript: [2024-05-23_Versioning_sub-working-group_transcript.md](./2024-05-23_Versioning_sub-working-group_transcript.md)
 
----
-
+## Meeting Notes
 
 ### Versioning
 
