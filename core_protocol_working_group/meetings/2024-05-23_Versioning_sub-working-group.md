@@ -59,7 +59,7 @@ Misc links of prior discussions and related
 
 Example: security fix for execution
 
-- bump `Execution Protocol Version` by 1Idea:
+- bump `Execution Protocol Version` by 1
 
 ### Idea A:
 
