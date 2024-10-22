@@ -1,4 +1,4 @@
-# Core-Protocol Sub-Working-Group Meeting on Versioning, May 23, 2024 - Transcript
+# Core-Protocol Sub-Working-Group Meeting on Versioning, May 23, 2024
 
 **Attendees**
 
