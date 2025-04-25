@@ -1,5 +1,7 @@
-Flow Core Protocol Working Group 
-Thu, Apr 24, 2025
+# Meeting 12 - Core Protocol Working Group
+**Date**: April 24, 2025 (Thursday), 10-11am PT (17-18:00 UTC)
+
+## Transcript
 
 **Alex Hentschel**:
 We are going to start with a malleability topic, guaranteeing immutable data structures in our Golang codebase. That's Gordon's first topic. And then we can spend the rest of the time on the state and event proofs. I assume that there could be some relatively deep technical questions. So my thought is that we can cover the higher level here and then delegate some of the more nitty-gritty technical details and discussions to a sub-working group where we can meet if that's possible. Sorry, if that's necessary, or maybe we get to all the questions here, and then we do the rest sort of in written on the document. All right, that's it. Thank you. Jordan.
@@ -137,7 +139,7 @@ Sorry, I think the next topic is also going to have a lot of questions.
 I do think, just very briefly, I do think it might be worth picking up on what Tara said earlier and what you said, Alex, is that it might be worth having another session somewhere where we talk about these kinds of tools, and we integrate maybe what Cadence is doing with what Jordan is doing, and then we explain how it works to Tarak, because it sounds like Tarak was thinking that there's some linting stuff that maybe he'd like in his code. So it might make sense for there to be an internal tooling presentation or something at some point about this approach and how other people might be able to leverage it. I love this stuff, and I'm really glad to see that you did this, Jordan, and great. I'm not surprised, but very pleased to hear that Caden's team is doing something similar. And so I think if more people can think about how to leverage this tool, especially if it's half built already for their use cases, or entirely built for your use case, but for their use cases, probably leverage the in front of that would be awesome.
 
 **Bastian**:
-Maybe even like ask like, Tarrak, you sound like get some ideas of like things you wanted to maybe have checked or not checked.
+Maybe even like ask like, Tarak, you sound like get some ideas of like things you wanted to maybe have checked or not checked.
 
 **Bastian**:
 So, you know, how to achieve that maybe there's some other things you want to guarantee.
